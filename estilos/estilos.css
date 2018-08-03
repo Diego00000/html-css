@@ -1,0 +1,24 @@
+body{
+	background-color: #4ffff2;
+}
+h1{
+	text-align: center;
+}
+p, code{
+	text-align: center
+	font-size: 72px;
+}
+em{
+	color: #05E891;
+
+}
+.cur2{
+	color: greenyellow;
+	font-size: 64px;
+}
+.cur1{
+	color: green;
+	background-color: #30FFA2;
+	font-size: 64px;
+}
+}
